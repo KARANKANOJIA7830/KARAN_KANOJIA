@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi , I'm Karan Kanojia 👋</h1>
   
-<h3 align="center">A 3rd year undergraduate pursuing B.Tech (CSE) from Dr. A. P. J. Abdul Kalam Technical University, Uttar Pradesh. A computer science student passionate about programming and design.</h3>
+<h3 align="center">A final year undergraduate pursuing B.Tech (CSE) from Dr. A. P. J. Abdul Kalam Technical University, Uttar Pradesh. A computer science student passionate about programming and design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karankanojia7830&label=Profile%20views&color=0e75b6&style=flat" alt="karankanojia7830" /> </p>
 
